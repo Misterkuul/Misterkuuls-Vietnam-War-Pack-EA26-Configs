@@ -1,0 +1,815 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SQUAD LEADER KIT"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "AN M8 Incendiary"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "2632149670",
+                    "sourceWorkshopId": 2632149670,
+                    "name": "M37 Satchel Charge"
+                },
+                {
+                    "sourceDirectory": "1969576485",
+                    "sourceWorkshopId": 1969576485,
+                    "name": "Grenade, hand, fragmentation,Mk 2 [1944 model]"
+                },
+                {
+                    "sourceDirectory": "1844604654",
+                    "sourceWorkshopId": 1844604654,
+                    "name": "UZI-S"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "AN M8 Smoke"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "M 18 Green smoke"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "M 18 Red smoke"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "M 18 Violet smoke"
+                },
+                {
+                    "sourceDirectory": "2632162051",
+                    "sourceWorkshopId": 2632162051,
+                    "name": "M 18 Yellow smoke"
+                },
+                {
+                    "sourceDirectory": "1439632100",
+                    "sourceWorkshopId": 1439632100,
+                    "name": "Flashlight"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "NAM' PATRIOT CARBINE"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "XM771"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "XM771 PDW"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "QUAN SON LAKE"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M20 SWS"
+                },
+                {
+                    "sourceDirectory": "2197189718",
+                    "sourceWorkshopId": 2197189718,
+                    "name": "Kimber 1911 [Suppressed]"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "STC-5"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "MAD-45"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M71 EDICT"
+                },
+                {
+                    "sourceDirectory": "2441741144",
+                    "sourceWorkshopId": 2441741144,
+                    "name": "Model 37"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "1958830857",
+                    "sourceWorkshopId": 1958830857,
+                    "name": "Winchester Model 1897"
+                },
+                {
+                    "sourceDirectory": "1958830857",
+                    "sourceWorkshopId": 1958830857,
+                    "name": "Winchester Model 1897 [Slam fire]"
+                },
+                {
+                    "sourceDirectory": "2479834170",
+                    "sourceWorkshopId": 2479834170,
+                    "name": "Carbine, Caliber .30, T3"
+                },
+                {
+                    "sourceDirectory": "2169633769",
+                    "sourceWorkshopId": 2169633769,
+                    "name": "M34 WP Grenade"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2167979156",
+                    "sourceWorkshopId": 2167979156,
+                    "name": "US_Jeep compatible v2021 1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2167979156",
+                    "sourceWorkshopId": 2167979156,
+                    "name": "US_Jeep 50cal compatible v2021"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "1922567656",
+                    "sourceWorkshopId": 1922567656,
+                    "name": "OH-6"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2416157182",
+                    "sourceWorkshopId": 2416157182,
+                    "name": "A-7E Corsair II 3"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "RHIB M60"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2440559760",
+                    "sourceWorkshopId": 2440559760,
+                    "name": "PBR Riverine 1"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2099473969",
+                    "sourceWorkshopId": 2099473969,
+                    "name": "A6 Intruder"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2490036339",
+                    "sourceWorkshopId": 2490036339,
+                    "name": "CH-47 Generic"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2447669497",
+                    "sourceWorkshopId": 2447669497,
+                    "name": "M2 Brwoning .50 Cal"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2612964073",
+                    "sourceWorkshopId": 2612964073,
+                    "name": "TOW Launcher gg 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1746030916",
+                    "sourceWorkshopId": 1746030916,
+                    "name": "Bofors40mmAA"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2581851836",
+                "sourceWorkshopId": 2581851836,
+                "name": "MACVSOG"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SQUAD LEADER KIT"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Ammo Crate"
+                },
+                {
+                    "sourceDirectory": "2283452545",
+                    "sourceWorkshopId": 2283452545,
+                    "name": "BF4 Medkit"
+                },
+                {
+                    "sourceDirectory": "2421000653",
+                    "sourceWorkshopId": 2421000653,
+                    "name": "Entrenching Tool"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Morphine"
+                },
+                {
+                    "sourceDirectory": "1922168394",
+                    "sourceWorkshopId": 1922168394,
+                    "name": "Bandage"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "DRAGONOFF SVD (GEAR)"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "DRAGONOFF SVD"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "DEGTYAROV MG"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "PK61"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "RPG-AT [VC]"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "RPG-HE [VC]"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "SAMOZARYADNY 56"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "BAYONET [SAMOZARYADNY 56 ]"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "PG25 [TYPE 65]"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "LPK"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "M50K"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "BAYONET [TYPE 65]"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "TYPE 65"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "T3"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "TYPE 65 GRENADIER"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "ASP"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "RGD-33 Bundle"
+                },
+                {
+                    "sourceDirectory": "1439632100",
+                    "sourceWorkshopId": 1439632100,
+                    "name": "Flashlight"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Ammo"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Ammo 1"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Grenades"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Grenades 1"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 1"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 2"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 3"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 4"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 5"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 6"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Hit 7"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Medic"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Medic 1"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Solider"
+                },
+                {
+                    "sourceDirectory": "1810463775",
+                    "sourceWorkshopId": 1810463775,
+                    "name": "Vietnamese Solider 1"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "RGD-33"
+                },
+                {
+                    "sourceDirectory": "2305024965",
+                    "sourceWorkshopId": 2305024965,
+                    "name": "PMm"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "RG-42"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "F-1"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "RPG-40"
+                },
+                {
+                    "sourceDirectory": "2632175932",
+                    "sourceWorkshopId": 2632175932,
+                    "name": "RDG-1"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2532537970",
+                    "sourceWorkshopId": 2532537970,
+                    "name": "UAZ-469 transport GG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2532537970",
+                    "sourceWorkshopId": 2532537970,
+                    "name": "UAZ-469 MG GG"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1448353083",
+                    "sourceWorkshopId": 1448353083,
+                    "name": "Motorbike"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2631758038",
+                    "sourceWorkshopId": 2631758038,
+                    "name": "T-55 green 1"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "1368235473",
+                    "sourceWorkshopId": 1368235473,
+                    "name": "MI-24A"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2288933294",
+                    "sourceWorkshopId": 2288933294,
+                    "name": "MIG-21 Bis_Vietnamese_Final"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2112715745",
+                    "sourceWorkshopId": 2112715745,
+                    "name": "wooden boat"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2288933294",
+                    "sourceWorkshopId": 2288933294,
+                    "name": "MIG-21 Bis_Vietnamese_Final"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2528039954",
+                    "sourceWorkshopId": 2528039954,
+                    "name": "MI-8 Woodland 3"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2534361297",
+                    "sourceWorkshopId": 2534361297,
+                    "name": "BTR-60 Woodland 4"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2772868691",
+                    "sourceWorkshopId": 2772868691,
+                    "name": "DSHKM turret"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "1751965261",
+                    "sourceWorkshopId": 1751965261,
+                    "name": "ZiS-3 Artillery El Papa"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2772868691",
+                    "sourceWorkshopId": 2772868691,
+                    "name": "DSHKM Kondakov"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2066599973",
+                "sourceWorkshopId": 2066599973,
+                "name": "PAVN Tan"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2589190263",
+            "sourceWorkshopId": 2589190263,
+            "name": "Radar",
+            "fields": [
+                {
+                    "id": "showFlags",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "showResupplyCrates",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2535267658",
+            "sourceWorkshopId": 2535267658,
+            "name": "Enhanced Health",
+            "fields": [
+                {
+                    "id": "maxHP",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "stimOverheal",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healDelay",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "healInterval",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "healValue",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "stimHeal",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "stimDuration",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "speedBoost",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "speedBoostDuration",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "doRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isPercent",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doQuickAnim",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimRegen",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimSpeedBost",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doVignette",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doFadeToBlack",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doStimFlash",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoOverHeal",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bandageDoSpeedBoost",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vignetteStyle",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2061995936",
+            "sourceWorkshopId": 2061995936,
+            "name": "Better Spectator",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2121823035",
+            "sourceWorkshopId": 2121823035,
+            "name": "Custom Blood Color",
+            "fields": [
+                {
+                    "id": "rSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "gSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "rSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "gSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "aSliderRaven",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "aSliderEagle",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "hexValueEagle",
+                    "serializedValue": "#0000ff"
+                },
+                {
+                    "id": "hexValueRaven",
+                    "serializedValue": "#ff0000"
+                },
+                {
+                    "id": "disableBlood",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "usePresets",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "hexColorEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "preset",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2095193497",
+            "sourceWorkshopId": 2095193497,
+            "name": "<color=#f25c54>Weapon</color> <color=#f4845f>Pickup</color>",
+            "fields": [
+                {
+                    "id": "despawnTime",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "dropChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "everyBotDrops",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "IsCubeInvisible",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "showWeaponNames",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2573410809",
+            "sourceWorkshopId": 2573410809,
+            "name": "BATTLE STATISTICS",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2565510240",
+            "sourceWorkshopId": 2565510240,
+            "name": "Black Ops <color=red>Cold War</color> Style HUD",
+            "fields": [
+                {
+                    "id": "displayName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "healthBarVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "weaponHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "vehicleHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "playerNameVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "squadTextVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthNumberVisibility",
+                    "serializedValue": "False"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
